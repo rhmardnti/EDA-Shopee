@@ -1,1 +1,1 @@
-Exploratory Data Analysis from Shopee data. For further result explanation: https://docs.google.com/presentation/d/1wb77Kp2uSP3psorE3coDeRcuzlla8yHD/edit?usp=sharing&ouid=112609035190941461475&rtpof=true&sd=true
+Exploratory Data Analysis from Shopee data. For further result explanation: https://drive.google.com/file/d/1UTXDXZ1WDkK1gBNbS11x7lLz87Is3EFt/view?usp=sharing
